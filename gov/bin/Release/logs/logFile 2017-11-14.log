@@ -1,0 +1,72 @@
+2017-11-14 09:58:14,412 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-14 09:58:14,427 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-14 09:58:14,429 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-14 09:58:14,430 [9] LogHelper INFO  管理员身份：True
+2017-11-14 09:58:14,430 [9] LogHelper INFO  64位操作系统：True
+2017-11-14 09:58:14,430 [9] LogHelper INFO  64位方式运行：True
+2017-11-14 09:58:14,430 [9] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-14 09:58:14,430 [9] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-14 09:58:14,431 [9] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-14 09:58:14,433 [9] LogHelper INFO  标题：gov
+2017-11-14 09:58:14,433 [9] LogHelper INFO  版本：1.0.0.0
+2017-11-14 09:58:19,370 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-14 10:01:28,326 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-14 10:01:28,341 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-14 10:01:28,343 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-14 10:01:28,343 [9] LogHelper INFO  管理员身份：True
+2017-11-14 10:01:28,343 [9] LogHelper INFO  64位操作系统：True
+2017-11-14 10:01:28,343 [9] LogHelper INFO  64位方式运行：True
+2017-11-14 10:01:28,344 [9] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-14 10:01:28,344 [9] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-14 10:01:28,344 [9] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-14 10:01:28,346 [9] LogHelper INFO  标题：gov
+2017-11-14 10:01:28,347 [9] LogHelper INFO  版本：1.0.0.0
+2017-11-14 10:01:33,290 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-14 10:07:37,179 [8] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-14 10:07:37,195 [8] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-14 10:07:37,197 [8] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-14 10:07:37,197 [8] LogHelper INFO  管理员身份：True
+2017-11-14 10:07:37,197 [8] LogHelper INFO  64位操作系统：True
+2017-11-14 10:07:37,198 [8] LogHelper INFO  64位方式运行：True
+2017-11-14 10:07:37,198 [8] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-14 10:07:37,198 [8] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-14 10:07:37,198 [8] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-14 10:07:37,200 [8] LogHelper INFO  标题：gov
+2017-11-14 10:07:37,201 [8] LogHelper INFO  版本：1.0.0.0
+2017-11-14 10:07:42,141 [9] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-14 10:17:48,041 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-14 10:17:48,057 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-14 10:17:48,058 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-14 10:17:48,059 [10] LogHelper INFO  管理员身份：True
+2017-11-14 10:17:48,059 [10] LogHelper INFO  64位操作系统：True
+2017-11-14 10:17:48,059 [10] LogHelper INFO  64位方式运行：True
+2017-11-14 10:17:48,059 [10] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-14 10:17:48,060 [10] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-14 10:17:48,060 [10] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-14 10:17:48,062 [10] LogHelper INFO  标题：gov
+2017-11-14 10:17:48,062 [10] LogHelper INFO  版本：1.0.0.0
+2017-11-14 10:17:53,002 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-14 19:00:20,329 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-14 19:00:20,341 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-14 19:00:20,342 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-14 19:00:20,343 [9] LogHelper INFO  管理员身份：True
+2017-11-14 19:00:20,343 [9] LogHelper INFO  64位操作系统：True
+2017-11-14 19:00:20,343 [9] LogHelper INFO  64位方式运行：True
+2017-11-14 19:00:20,343 [9] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-14 19:00:20,344 [9] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-14 19:00:20,344 [9] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-14 19:00:20,346 [9] LogHelper INFO  标题：gov
+2017-11-14 19:00:20,346 [9] LogHelper INFO  版本：1.0.0.0
+2017-11-14 19:00:25,284 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-14 19:12:50,190 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-14 19:12:50,203 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-14 19:12:50,204 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-14 19:12:50,204 [9] LogHelper INFO  管理员身份：True
+2017-11-14 19:12:50,204 [9] LogHelper INFO  64位操作系统：True
+2017-11-14 19:12:50,204 [9] LogHelper INFO  64位方式运行：True
+2017-11-14 19:12:50,205 [9] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-14 19:12:50,205 [9] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-14 19:12:50,205 [9] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-14 19:12:50,207 [9] LogHelper INFO  标题：gov
+2017-11-14 19:12:50,207 [9] LogHelper INFO  版本：1.0.0.0
+2017-11-14 19:12:55,161 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator

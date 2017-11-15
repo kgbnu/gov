@@ -1,0 +1,250 @@
+2017-11-09 14:59:58,238 [8] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 14:59:58,260 [8] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 14:59:58,269 [8] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 14:59:58,269 [8] LogHelper INFO  管理员身份：True
+2017-11-09 14:59:58,270 [8] LogHelper INFO  64位操作系统：True
+2017-11-09 14:59:58,270 [8] LogHelper INFO  64位方式运行：True
+2017-11-09 14:59:58,270 [8] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 14:59:58,270 [8] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 14:59:58,270 [8] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 14:59:58,273 [8] LogHelper INFO  标题：gov
+2017-11-09 14:59:58,273 [8] LogHelper INFO  版本：1.0.0.0
+2017-11-09 15:00:03,203 [9] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-09 15:47:40,020 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 15:47:40,037 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 15:47:40,039 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 15:47:40,045 [9] LogHelper INFO  管理员身份：True
+2017-11-09 15:47:40,045 [9] LogHelper INFO  64位操作系统：True
+2017-11-09 15:47:40,045 [9] LogHelper INFO  64位方式运行：True
+2017-11-09 15:47:40,046 [9] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 15:47:40,046 [9] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 15:47:40,046 [9] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 15:47:40,048 [9] LogHelper INFO  标题：gov
+2017-11-09 15:47:40,049 [9] LogHelper INFO  版本：1.0.0.0
+2017-11-09 15:47:42,553 [9] IeStarter DEBUG 启动浏览器路径：C:\Program Files (x86)\Internet Explorer\iexplore.exe
+2017-11-09 15:47:42,555 [9] IeStarter DEBUG 浏览器启动参数：-nomerge -private -nohome
+2017-11-09 15:47:42,557 [9] IeStarter DEBUG 准备启动Ie浏览器
+2017-11-09 15:47:42,558 [9] IeStarter DEBUG 准备创建Ie浏览器快照
+2017-11-09 15:47:42,598 [9] IeStarter DEBUG 开始启动Ie浏览器：C:\Program Files (x86)\Internet Explorer\iexplore.exe # -nomerge -private -nohome
+2017-11-09 15:47:42,685 [9] IeStarter DEBUG 查询启动Ie浏览器
+2017-11-09 15:47:42,686 [9] IeStarter DEBUG 获取启动浏览器句柄完成
+2017-11-09 15:47:43,959 [9] Browser INFO  准备访问企业信用首页
+2017-11-09 15:47:43,970 [6] ShDocVwIeWebControl DEBUG 主窗体 # 135718 # 准备导航至：http://www.gsxt.gov.cn/
+2017-11-09 15:47:44,955 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-09 15:47:45,259 [16] ShDocVwIeWebControl INFO  文件下载完成：活动文档
+2017-11-09 15:47:45,309 [16] ShDocVwIeWebControl DEBUG 主窗体 # 135718 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-11-09 15:47:46,046 [16] ShDocVwIeWebControl DEBUG 主窗体 # 135718 # 文档载入完成：http://www.gsxt.gov.cn/index.html
+2017-11-09 15:47:48,715 [9] Browser INFO  等待验证框处理完成
+2017-11-09 15:47:52,926 [9] Browser INFO  自动处理验证框，位移： 156px
+2017-11-09 15:47:54,441 [9] Browser INFO  准备开始滑动验证：8 个滑动点
+2017-11-09 15:47:54,578 [9] Browser INFO  滑动点：0, 0, 11.6807381444055
+2017-11-09 15:47:54,597 [9] Browser INFO  滑动点：4, 1, 29.1974191270757
+2017-11-09 15:47:54,628 [9] Browser INFO  滑动点：8, -2, 24.6410541304578
+2017-11-09 15:47:54,657 [9] Browser INFO  滑动点：15, -1, 12.1284223357814
+2017-11-09 15:47:54,671 [9] Browser INFO  滑动点：29, 0, 42.7743517201274
+2017-11-09 15:47:54,718 [9] Browser INFO  滑动点：59, 1, 20.9914438850207
+2017-11-09 15:47:54,742 [9] Browser INFO  滑动点：119, 1, 48.5857907862336
+2017-11-09 15:47:54,793 [9] Browser INFO  滑动点：156, 0, 41.6580188049274
+2017-11-09 15:48:04,387 [9] Browser INFO  验证框滑动位移小于等于 0，准备再次尝试
+2017-11-09 15:48:04,629 [9] Browser INFO  刷新验证框
+2017-11-09 15:48:11,477 [9] Browser INFO  自动处理验证框，位移： 153px
+2017-11-09 15:48:12,980 [9] Browser INFO  准备开始滑动验证：8 个滑动点
+2017-11-09 15:48:13,072 [9] Browser INFO  滑动点：0, 0, 24.8215005615826
+2017-11-09 15:48:13,098 [9] Browser INFO  滑动点：3, 1, 35.4974659092247
+2017-11-09 15:48:13,137 [9] Browser INFO  滑动点：7, 0, 34.3331905753972
+2017-11-09 15:48:13,175 [9] Browser INFO  滑动点：12, 1, 47.2417126769394
+2017-11-09 15:48:13,227 [9] Browser INFO  滑动点：23, 0, 30.5637206046673
+2017-11-09 15:48:13,260 [9] Browser INFO  滑动点：48, -1, 13.7927643041093
+2017-11-09 15:48:13,277 [9] Browser INFO  滑动点：96, 1, 43.6321435652823
+2017-11-09 15:48:13,322 [9] Browser INFO  滑动点：153, -2, 21.8606659266449
+2017-11-09 15:48:22,926 [9] Browser INFO  自动处理验证框，位移： 179px
+2017-11-09 15:48:24,428 [9] Browser INFO  准备开始滑动验证：8 个滑动点
+2017-11-09 15:48:24,502 [9] Browser INFO  滑动点：0, 1, 22.2851015125798
+2017-11-09 15:48:24,526 [9] Browser INFO  滑动点：4, 1, 34.0257080756248
+2017-11-09 15:48:24,562 [9] Browser INFO  滑动点：8, -1, 25.857055921041
+2017-11-09 15:48:24,590 [9] Browser INFO  滑动点：16, 0, 19.2927309913993
+2017-11-09 15:48:24,611 [9] Browser INFO  滑动点：29, 0, 48.2872521496784
+2017-11-09 15:48:24,661 [9] Browser INFO  滑动点：58, 1, 35.0612525572354
+2017-11-09 15:48:24,698 [9] Browser INFO  滑动点：116, 1, 38.9564796485735
+2017-11-09 15:48:24,739 [9] Browser INFO  滑动点：179, 0, 35.8816122384191
+2017-11-09 15:48:34,108 [9] Browser INFO  自动处理验证框，位移： 73px
+2017-11-09 15:48:35,609 [9] Browser INFO  准备开始滑动验证：7 个滑动点
+2017-11-09 15:48:35,721 [9] Browser INFO  滑动点：0, -1, 41.7234407513046
+2017-11-09 15:48:35,765 [9] Browser INFO  滑动点：3, -2, 37.8542352783746
+2017-11-09 15:48:35,806 [9] Browser INFO  滑动点：5, -2, 18.4482336269916
+2017-11-09 15:48:35,827 [9] Browser INFO  滑动点：12, -1, 30.4926152436494
+2017-11-09 15:48:35,861 [9] Browser INFO  滑动点：23, -1, 18.3415572197836
+2017-11-09 15:48:35,885 [9] Browser INFO  滑动点：47, 0, 11.493792404185
+2017-11-09 15:48:35,900 [9] Browser INFO  滑动点：73, 0, 21.0695844940234
+2017-11-09 15:48:58,001 [9] Browser INFO  等待验证框提示超时
+2017-11-09 15:48:58,103 [9] Browser INFO  自动处理验证框，位移： 73px
+2017-11-09 15:48:59,605 [9] Browser INFO  准备开始滑动验证：7 个滑动点
+2017-11-09 15:48:59,668 [9] Browser INFO  滑动点：0, 0, 17.490284837545
+2017-11-09 15:48:59,687 [9] Browser INFO  滑动点：4, -1, 48.6398468346521
+2017-11-09 15:48:59,739 [9] Browser INFO  滑动点：8, -2, 36.0139448503097
+2017-11-09 15:48:59,778 [9] Browser INFO  滑动点：13, -1, 47.5532080035439
+2017-11-09 15:48:59,829 [9] Browser INFO  滑动点：26, 0, 29.8817323427097
+2017-11-09 15:48:59,864 [9] Browser INFO  滑动点：54, -2, 10.716032032257
+2017-11-09 15:48:59,878 [9] Browser INFO  滑动点：73, 0, 17.303002070311
+2017-11-09 15:49:06,505 [9] Browser ERROR 工作时发生错误，无法处理验证流程
+System.TimeoutException: 无法处理验证流程
+   在 GsxtWebCore.Browser.WaitGtBoxHidden(IeWebControl webControl) 位置 D:\Codes\Other\GsxtWebCore\GsxtWebCore\Browser.cs:行号 584
+   在 GsxtWebCore.Browser.SearchCompanyMainContentCore(String companyName, Func`3 func) 位置 D:\Codes\Other\GsxtWebCore\GsxtWebCore\Browser.cs:行号 525
+2017-11-09 15:49:06,721 [9] Browser INFO  准备访问企业信用首页
+2017-11-09 15:49:06,729 [16] ShDocVwIeWebControl DEBUG 主窗体 # 135718 # 准备导航至：http://www.gsxt.gov.cn/
+2017-11-09 15:49:06,784 [16] ShDocVwIeWebControl DEBUG 主窗体 # 135718 # 浏览器被关闭
+2017-11-09 15:49:09,330 [9] Browser INFO  等待验证框处理完成
+2017-11-09 15:49:24,945 [9] Browser INFO  等待验证框提示超时
+2017-11-09 15:49:25,100 [9] Browser INFO  验证框滑动位移小于等于 0，准备再次尝试
+2017-11-09 15:49:25,320 [9] Browser INFO  刷新验证框
+2017-11-09 15:49:44,819 [9] Browser INFO  等待验证框提示超时
+2017-11-09 15:49:44,937 [9] Browser INFO  验证框滑动位移小于等于 0，准备再次尝试
+2017-11-09 15:49:45,157 [9] Browser INFO  刷新验证框
+2017-11-09 16:25:31,531 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 16:25:31,548 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 16:25:31,550 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 16:25:31,550 [9] LogHelper INFO  管理员身份：True
+2017-11-09 16:25:31,550 [9] LogHelper INFO  64位操作系统：True
+2017-11-09 16:25:31,550 [9] LogHelper INFO  64位方式运行：True
+2017-11-09 16:25:31,551 [9] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 16:25:31,551 [9] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 16:25:31,551 [9] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 16:25:31,553 [9] LogHelper INFO  标题：gov
+2017-11-09 16:25:31,553 [9] LogHelper INFO  版本：1.0.0.0
+2017-11-09 16:25:33,595 [9] IeStarter DEBUG 启动浏览器路径：C:\Program Files (x86)\Internet Explorer\iexplore.exe
+2017-11-09 16:25:33,599 [9] IeStarter DEBUG 浏览器启动参数：-nomerge -private -nohome
+2017-11-09 16:25:33,602 [9] IeStarter DEBUG 准备启动Ie浏览器
+2017-11-09 16:25:33,604 [9] IeStarter DEBUG 准备创建Ie浏览器快照
+2017-11-09 16:25:33,642 [9] IeStarter DEBUG 开始启动Ie浏览器：C:\Program Files (x86)\Internet Explorer\iexplore.exe # -nomerge -private -nohome
+2017-11-09 16:25:33,667 [9] IeStarter DEBUG 查询启动Ie浏览器
+2017-11-09 16:25:33,668 [9] IeStarter DEBUG 获取启动浏览器句柄完成
+2017-11-09 16:25:34,394 [9] Browser INFO  准备访问企业信用首页
+2017-11-09 16:25:34,404 [3] ShDocVwIeWebControl DEBUG 主窗体 # 525400 # 准备导航至：http://www.gsxt.gov.cn/
+2017-11-09 16:25:34,645 [3] ShDocVwIeWebControl INFO  文件下载完成：活动文档
+2017-11-09 16:25:34,721 [3] ShDocVwIeWebControl DEBUG 主窗体 # 525400 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-11-09 16:25:35,543 [3] ShDocVwIeWebControl DEBUG 主窗体 # 525400 # 文档载入完成：http://www.gsxt.gov.cn/index.html
+2017-11-09 16:25:36,512 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-09 16:25:38,604 [9] Browser INFO  等待验证框处理完成
+2017-11-09 16:25:42,761 [9] Browser INFO  验证框滑动位移小于等于 0，准备再次尝试
+2017-11-09 16:25:42,964 [9] Browser INFO  刷新验证框
+2017-11-09 16:25:49,969 [9] Browser INFO  自动处理验证框，位移： 164px
+2017-11-09 16:25:51,482 [9] Browser INFO  准备开始滑动验证：9 个滑动点
+2017-11-09 16:25:51,557 [9] Browser INFO  滑动点：0, -1, 13.6303948255397
+2017-11-09 16:25:51,576 [9] Browser INFO  滑动点：2, -1, 18.5741511027208
+2017-11-09 16:25:51,596 [9] Browser INFO  滑动点：4, 1, 22.5423531478934
+2017-11-09 16:25:51,621 [9] Browser INFO  滑动点：7, -1, 38.9745134808936
+2017-11-09 16:25:51,663 [9] Browser INFO  滑动点：14, -2, 22.6762902981957
+2017-11-09 16:25:51,690 [9] Browser INFO  滑动点：29, -2, 27.2314828714502
+2017-11-09 16:25:51,722 [9] Browser INFO  滑动点：58, -2, 42.3383243718829
+2017-11-09 16:25:51,768 [9] Browser INFO  滑动点：118, 0, 27.6464330673434
+2017-11-09 16:25:51,798 [9] Browser INFO  滑动点：164, 1, 46.9211654909519
+2017-11-09 16:26:01,553 [9] Browser INFO  自动处理验证框，位移： 104px
+2017-11-09 16:26:03,055 [9] Browser INFO  准备开始滑动验证：8 个滑动点
+2017-11-09 16:26:03,100 [9] Browser INFO  滑动点：0, 1, 14.2382542808718
+2017-11-09 16:26:03,118 [9] Browser INFO  滑动点：2, -1, 25.422535955637
+2017-11-09 16:26:03,146 [9] Browser INFO  滑动点：6, -2, 23.4988742570853
+2017-11-09 16:26:03,172 [9] Browser INFO  滑动点：9, -1, 16.7164882676287
+2017-11-09 16:26:03,192 [9] Browser INFO  滑动点：19, -1, 33.8293296954731
+2017-11-09 16:26:03,233 [9] Browser INFO  滑动点：40, 1, 42.5107639248067
+2017-11-09 16:26:03,277 [9] Browser INFO  滑动点：79, 1, 46.0100019145804
+2017-11-09 16:26:03,324 [9] Browser INFO  滑动点：104, 1, 19.0757391457799
+2017-11-09 16:26:04,689 [3] ShDocVwIeWebControl DEBUG 主窗体 # 525400 # 浏览器被关闭
+2017-11-09 16:26:25,747 [9] Browser INFO  等待验证框提示超时
+2017-11-09 16:26:25,857 [9] Browser INFO  验证框滑动位移小于等于 0，准备再次尝试
+2017-11-09 16:26:26,066 [9] Browser INFO  刷新验证框
+2017-11-09 16:42:34,000 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 16:42:34,015 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 16:42:34,016 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 16:42:34,017 [9] LogHelper INFO  管理员身份：True
+2017-11-09 16:42:34,017 [9] LogHelper INFO  64位操作系统：True
+2017-11-09 16:42:34,017 [9] LogHelper INFO  64位方式运行：True
+2017-11-09 16:42:34,018 [9] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 16:42:34,018 [9] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 16:42:34,018 [9] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 16:42:34,020 [9] LogHelper INFO  标题：gov
+2017-11-09 16:42:34,021 [9] LogHelper INFO  版本：1.0.0.0
+2017-11-09 16:42:38,963 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-09 16:47:09,650 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 16:47:09,662 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 16:47:09,663 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 16:47:09,664 [10] LogHelper INFO  管理员身份：True
+2017-11-09 16:47:09,664 [10] LogHelper INFO  64位操作系统：True
+2017-11-09 16:47:09,664 [10] LogHelper INFO  64位方式运行：True
+2017-11-09 16:47:09,664 [10] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 16:47:09,664 [10] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 16:47:09,665 [10] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 16:47:09,667 [10] LogHelper INFO  标题：gov
+2017-11-09 16:47:09,667 [10] LogHelper INFO  版本：1.0.0.0
+2017-11-09 16:47:14,633 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-09 17:03:47,296 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 17:03:47,310 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 17:03:47,313 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 17:03:47,313 [10] LogHelper INFO  管理员身份：True
+2017-11-09 17:03:47,314 [10] LogHelper INFO  64位操作系统：True
+2017-11-09 17:03:47,314 [10] LogHelper INFO  64位方式运行：True
+2017-11-09 17:03:47,314 [10] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 17:03:47,314 [10] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 17:03:47,314 [10] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 17:03:47,316 [10] LogHelper INFO  标题：gov
+2017-11-09 17:03:47,317 [10] LogHelper INFO  版本：1.0.0.0
+2017-11-09 17:03:52,263 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-09 17:07:18,838 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 17:07:18,855 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 17:07:18,856 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 17:07:18,857 [9] LogHelper INFO  管理员身份：True
+2017-11-09 17:07:18,857 [9] LogHelper INFO  64位操作系统：True
+2017-11-09 17:07:18,857 [9] LogHelper INFO  64位方式运行：True
+2017-11-09 17:07:18,857 [9] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 17:07:18,857 [9] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 17:07:18,858 [9] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 17:07:18,859 [9] LogHelper INFO  标题：gov
+2017-11-09 17:07:18,860 [9] LogHelper INFO  版本：1.0.0.0
+2017-11-09 17:07:23,812 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-09 17:09:19,088 [8] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 17:09:19,101 [8] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 17:09:19,102 [8] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 17:09:19,103 [8] LogHelper INFO  管理员身份：True
+2017-11-09 17:09:19,103 [8] LogHelper INFO  64位操作系统：True
+2017-11-09 17:09:19,103 [8] LogHelper INFO  64位方式运行：True
+2017-11-09 17:09:19,103 [8] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 17:09:19,103 [8] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 17:09:19,103 [8] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 17:09:19,105 [8] LogHelper INFO  标题：gov
+2017-11-09 17:09:19,105 [8] LogHelper INFO  版本：1.0.0.0
+2017-11-09 17:09:24,072 [9] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-09 17:12:32,473 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 17:12:32,486 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 17:12:32,487 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 17:12:32,487 [9] LogHelper INFO  管理员身份：True
+2017-11-09 17:12:32,487 [9] LogHelper INFO  64位操作系统：True
+2017-11-09 17:12:32,487 [9] LogHelper INFO  64位方式运行：True
+2017-11-09 17:12:32,488 [9] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 17:12:32,488 [9] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 17:12:32,488 [9] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 17:12:32,490 [9] LogHelper INFO  标题：gov
+2017-11-09 17:12:32,490 [9] LogHelper INFO  版本：1.0.0.0
+2017-11-09 17:12:37,445 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-09 17:13:07,441 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 17:13:07,454 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 17:13:07,456 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 17:13:07,456 [10] LogHelper INFO  管理员身份：True
+2017-11-09 17:13:07,457 [10] LogHelper INFO  64位操作系统：True
+2017-11-09 17:13:07,457 [10] LogHelper INFO  64位方式运行：True
+2017-11-09 17:13:07,457 [10] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 17:13:07,457 [10] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 17:13:07,457 [10] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 17:13:07,459 [10] LogHelper INFO  标题：gov
+2017-11-09 17:13:07,460 [10] LogHelper INFO  版本：1.0.0.0
+2017-11-09 17:13:12,407 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-09 17:14:21,078 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-09 17:14:21,090 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-09 17:14:21,091 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-09 17:14:21,092 [10] LogHelper INFO  管理员身份：True
+2017-11-09 17:14:21,092 [10] LogHelper INFO  64位操作系统：True
+2017-11-09 17:14:21,092 [10] LogHelper INFO  64位方式运行：True
+2017-11-09 17:14:21,092 [10] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Release\
+2017-11-09 17:14:21,093 [10] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Release
+2017-11-09 17:14:21,093 [10] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Release\gov.exe
+2017-11-09 17:14:21,095 [10] LogHelper INFO  标题：gov
+2017-11-09 17:14:21,095 [10] LogHelper INFO  版本：1.0.0.0
+2017-11-09 17:14:26,065 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator

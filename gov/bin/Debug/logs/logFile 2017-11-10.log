@@ -1,0 +1,120 @@
+2017-11-10 16:17:54,360 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-10 16:17:54,371 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-10 16:17:54,376 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-10 16:17:54,376 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-11-10 16:17:54,382 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-11-10 16:17:54,382 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-11-10 16:17:54,382 [TestRunnerThread] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 16:17:54,382 [TestRunnerThread] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 16:17:54,382 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-11-10 16:17:54,383 [TestRunnerThread] LogHelper INFO  标题：
+2017-11-10 16:17:54,383 [TestRunnerThread] LogHelper INFO  版本：
+2017-11-10 16:17:59,271 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-10 16:20:03,335 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-10 16:20:03,346 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-10 16:20:03,350 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-10 16:20:03,350 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-11-10 16:20:03,355 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-11-10 16:20:03,355 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-11-10 16:20:03,355 [TestRunnerThread] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 16:20:03,355 [TestRunnerThread] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 16:20:03,356 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-11-10 16:20:03,356 [TestRunnerThread] LogHelper INFO  标题：
+2017-11-10 16:20:03,357 [TestRunnerThread] LogHelper INFO  版本：
+2017-11-10 16:20:08,272 [9] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-10 16:25:43,107 [8] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-10 16:25:43,120 [8] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-10 16:25:43,121 [8] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-10 16:25:43,121 [8] LogHelper INFO  管理员身份：True
+2017-11-10 16:25:43,122 [8] LogHelper INFO  64位操作系统：True
+2017-11-10 16:25:43,122 [8] LogHelper INFO  64位方式运行：True
+2017-11-10 16:25:43,122 [8] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Debug\
+2017-11-10 16:25:43,122 [8] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 16:25:43,123 [8] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Debug\gov.exe
+2017-11-10 16:25:43,124 [8] LogHelper INFO  标题：gov
+2017-11-10 16:25:43,124 [8] LogHelper INFO  版本：1.0.0.0
+2017-11-10 16:25:48,087 [9] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-10 16:26:44,534 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-10 16:26:44,544 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-10 16:26:44,548 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-10 16:26:44,549 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-11-10 16:26:44,553 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-11-10 16:26:44,553 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-11-10 16:26:44,553 [TestRunnerThread] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 16:26:44,553 [TestRunnerThread] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 16:26:44,554 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-11-10 16:26:44,554 [TestRunnerThread] LogHelper INFO  标题：
+2017-11-10 16:26:44,554 [TestRunnerThread] LogHelper INFO  版本：
+2017-11-10 16:26:49,448 [9] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-10 16:53:36,583 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-10 16:53:36,595 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-10 16:53:36,600 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-10 16:53:36,600 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-11-10 16:53:36,605 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-11-10 16:53:36,605 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-11-10 16:53:36,605 [TestRunnerThread] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 16:53:36,605 [TestRunnerThread] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 16:53:36,606 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-11-10 16:53:36,606 [TestRunnerThread] LogHelper INFO  标题：
+2017-11-10 16:53:36,607 [TestRunnerThread] LogHelper INFO  版本：
+2017-11-10 16:53:41,503 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-10 17:03:27,764 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-10 17:03:27,775 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-10 17:03:27,780 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-10 17:03:27,781 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-11-10 17:03:27,786 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-11-10 17:03:27,786 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-11-10 17:03:27,786 [TestRunnerThread] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 17:03:27,786 [TestRunnerThread] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 17:03:27,786 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-11-10 17:03:27,787 [TestRunnerThread] LogHelper INFO  标题：
+2017-11-10 17:03:27,787 [TestRunnerThread] LogHelper INFO  版本：
+2017-11-10 17:03:32,678 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-10 17:11:18,712 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-10 17:11:18,723 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-10 17:11:18,727 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-10 17:11:18,727 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-11-10 17:11:18,733 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-11-10 17:11:18,733 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-11-10 17:11:18,733 [TestRunnerThread] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 17:11:18,733 [TestRunnerThread] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 17:11:18,734 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-11-10 17:11:18,734 [TestRunnerThread] LogHelper INFO  标题：
+2017-11-10 17:11:18,734 [TestRunnerThread] LogHelper INFO  版本：
+2017-11-10 17:11:23,624 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-10 17:14:10,412 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-10 17:14:10,426 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-10 17:14:10,427 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-10 17:14:10,427 [9] LogHelper INFO  管理员身份：True
+2017-11-10 17:14:10,427 [9] LogHelper INFO  64位操作系统：True
+2017-11-10 17:14:10,427 [9] LogHelper INFO  64位方式运行：True
+2017-11-10 17:14:10,428 [9] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Debug\
+2017-11-10 17:14:10,428 [9] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 17:14:10,428 [9] LogHelper INFO  应用路径：F:\myGitHub\gov\gov\bin\Debug\gov.exe
+2017-11-10 17:14:10,430 [9] LogHelper INFO  标题：gov
+2017-11-10 17:14:10,430 [9] LogHelper INFO  版本：1.0.0.0
+2017-11-10 17:14:15,402 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-10 17:15:42,287 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-10 17:15:42,297 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-10 17:15:42,302 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-10 17:15:42,302 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-11-10 17:15:42,307 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-11-10 17:15:42,307 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-11-10 17:15:42,307 [TestRunnerThread] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 17:15:42,307 [TestRunnerThread] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 17:15:42,308 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-11-10 17:15:42,308 [TestRunnerThread] LogHelper INFO  标题：
+2017-11-10 17:15:42,309 [TestRunnerThread] LogHelper INFO  版本：
+2017-11-10 17:15:47,199 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-11-10 17:16:05,348 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-11-10 17:16:05,359 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-11-10 17:16:05,363 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-11-10 17:16:05,363 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-11-10 17:16:05,368 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-11-10 17:16:05,368 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-11-10 17:16:05,369 [TestRunnerThread] LogHelper INFO  程序基路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 17:16:05,369 [TestRunnerThread] LogHelper INFO  当前路径：F:\myGitHub\gov\gov\bin\Debug
+2017-11-10 17:16:05,369 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-11-10 17:16:05,370 [TestRunnerThread] LogHelper INFO  标题：
+2017-11-10 17:16:05,370 [TestRunnerThread] LogHelper INFO  版本：
+2017-11-10 17:16:10,282 [9] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
